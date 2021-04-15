@@ -1,6 +1,12 @@
 # 2-Preprocessing
 
 1. [Importar librerías y cargar los datos ](#schema1)
+2. [Separamos los datos](#schema2)
+3. [StandardScaler](#schema3)
+4. [QuantileTransformer](#schema4)
+5. [Visualización](#schema5)
+6. [Cargamos los datos drawndata2](#schema6)
+7. [One Hot Encoding](#schema7)
 
 <hr>
 
